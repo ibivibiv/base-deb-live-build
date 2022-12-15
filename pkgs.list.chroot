@@ -1,0 +1,1 @@
+apt-utils ifupdown2 openntpd udisks2 sudo user-setup isc-dhcp-client live-config live-tools dbus gpgv gnupg locales sudo cpio file bzip2 wget xz-utils keyboard-configuration systemd-sysv
